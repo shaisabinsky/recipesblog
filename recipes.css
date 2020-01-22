@@ -3,6 +3,7 @@ h1 {
     text-align: center;
     color: yellow;
     background: black;
+    padding: 30px;
 }
 
 p {
@@ -15,7 +16,4 @@ body {
 background-color:orange;
 }
 
-.special {
-    padding: 40px;
-}
 
