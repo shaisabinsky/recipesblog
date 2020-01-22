@@ -3,7 +3,8 @@ h1 {
     text-align: center;
     color: yellow;
     background: black;
-    padding: 60px;
+    border: yellow 20px solid;
+    border-radius: 10px;
 }
 
 p {
