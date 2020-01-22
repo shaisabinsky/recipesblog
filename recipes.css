@@ -5,6 +5,7 @@ h1 {
     background: black;
     border: yellow 20px solid;
     border-radius: 10px;
+    padding: 100px;
 }
 
 p {
